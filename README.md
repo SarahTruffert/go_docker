@@ -1,9 +1,9 @@
 # go_docker
 
-Commandes :
 
 
-Vous devriez maintenant voir une fenêtre noire ou blanche qui attend vos commandes.
+
+Docker :
 
  
 $ docker build -t "my-project" .
